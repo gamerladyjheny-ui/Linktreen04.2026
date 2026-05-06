@@ -1,0 +1,30 @@
+/* style.css */
+img {
+  border-radius: 75px;
+  padding: 10px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 50px;
+}
+
+body {
+  background-color: rgb(45, 143, 26);
+  color: white;
+  font-family: "Trebuchet MS";
+   text-align: center;}
+
+/* style.css */
+a {
+  background-color: rgb(65, 180, 42);;
+  font-size: 20px;
+  border-radius: 20px;
+  width: 900px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+ margin: 10px auto;
+  color: rgb(253, 252, 253);
+}
